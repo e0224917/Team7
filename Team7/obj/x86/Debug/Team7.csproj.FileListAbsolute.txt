@@ -1,0 +1,5 @@
+/Users/nhatton/Projects/Team7/Team7/bin/Debug/Team7.exe
+/Users/nhatton/Projects/Team7/Team7/bin/Debug/Team7.pdb
+/Users/nhatton/Projects/Team7/Team7/obj/x86/Debug/Team7.csproj.CoreCompileInputs.cache
+/Users/nhatton/Projects/Team7/Team7/obj/x86/Debug/Team7.exe
+/Users/nhatton/Projects/Team7/Team7/obj/x86/Debug/Team7.pdb
